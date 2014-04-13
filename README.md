@@ -32,9 +32,9 @@ In each folder add the certificates and keys generated from the Development/Prod
 
 There should be 4 files in each folder. They need to be named as follows:
 
-cert-classcast.pem
-cert-classcatcher.pem
-key-classcast.pem
-key-classcatcher.pem
+* cert-classcast.pem
+* cert-classcatcher.pem
+* key-classcast.pem
+* key-classcatcher.pem
 
 See https://github.com/argon/node-apn/wiki/Preparing-Certificates as a guide to preparing the keys and certificates.
