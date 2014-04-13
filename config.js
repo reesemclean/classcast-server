@@ -18,8 +18,8 @@ config.mandrill.key = '';
 
 config.apn = {};
 
-//Production
-var folderLocation = process.cwd() + '/apn_certs/production/';
+//var folderLocation = process.cwd() + '/apn_certs/production/'; //Production
+var folderLocation = process.cwd() + '/apn_certs/development/'; //Development
 config.apn.gateway = "gateway.push.apple.com";
 
 config.apn.teacherCertName = folderLocation + 'cert-classcast.pem';
