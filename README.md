@@ -11,7 +11,7 @@ ClassCast-Server is written in Node.js. Please make sure Node.js and npm are ins
 
 From the ClassCast-Server directory, install dependencies using:
 
-$ npm install
+	$ npm install
 
 ###Configuration
 
