@@ -17,7 +17,7 @@ $ npm install
 
 Edit config.js:
 
-* Key for Mandrill from http://mandrill.com for reset emails.
+* Key for Mandrill from http://mandrill.com for reset emails
 * Support Email Address
 * Password Reset Email Address
 * iOS in App Purchase Secret Key
